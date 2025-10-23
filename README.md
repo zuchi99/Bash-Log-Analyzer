@@ -28,7 +28,7 @@ chmod +x Bash-Log-Analyzer.sh
 ##  Usage
 ```bash
 # Run the script
-./Bash-Log-Analyzer.sh
+./Bash_Log_Analyzer.sh
 ```
 
 
